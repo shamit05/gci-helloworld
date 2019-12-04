@@ -1,2 +1,2 @@
 # gci-helloworld
-GCI repository
+This is a sample readme file
